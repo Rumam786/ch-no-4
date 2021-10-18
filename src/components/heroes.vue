@@ -66,7 +66,7 @@ export default {
   name: 'Heroes',
   data() {
     return {
-      selectedHero: undefined,
+      selectedHero: {},
       heroes: [
         {
           id: 10,
