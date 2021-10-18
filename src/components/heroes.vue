@@ -15,6 +15,12 @@
         <header class="card-header">
           <p class="card-header-title">{{ selectedHero.firstName }}</p>
         </header>
+        <ul list is-hoverable>
+        <li v-for="hero in heroes" :key="hero.id">
+        <a class="list-item"
+        ><span>{{hero.firstname}}</span></a>
+        </li>
+        </ul>
         <div class="card-content">
           <div class="content">
             <div class="field">
