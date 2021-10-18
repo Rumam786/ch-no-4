@@ -40,7 +40,7 @@
             </div>
             <div class="field">
             <label for="show" class="checkbox">
-            show 
+            show more
             <input type="checkbox" class="is-primary" id="show" v-model="showMore"></input>
             </label>
             </div>
