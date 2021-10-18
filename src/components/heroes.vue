@@ -74,25 +74,31 @@ export default {
       heroes: [
         {
           id: 10,
-          firstName: 'Ella',
+          firstName: 'Ruman',
           lastName: 'Papa',
           description: 'fashionista',
         },
         {
           id: 20,
-          firstName: 'Madelyn',
+          firstName: 'Usman',
           lastName: 'Papa',
           description: 'the cat whisperer',
         },
         {
           id: 30,
-          firstName: 'Haley',
+          firstName: 'Ali',
           lastName: 'Papa',
           description: 'pen wielder',
         },
         {
           id: 40,
-          firstName: 'Landon',
+          firstName: 'Naeem',
+          lastName: 'Papa',
+          description: 'arc trooper',
+        },
+        {
+          id: 40,
+          firstName: 'Arslan',
           lastName: 'Papa',
           description: 'arc trooper',
         },
